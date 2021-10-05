@@ -1,0 +1,3 @@
+je suis entrain d'écrire un job map reduce
+ce que je suis entrain d'écrire c'est un programme pour compter les occurrences des mots
+à la sortie, je vais avoir le mot et le nombre de ses occurences
